@@ -71,8 +71,6 @@
 ---
 
 <p align="center"><i>"Code is not just syntax — it's problem solving."</i></p>
-\"Code is not just syntax — it's problem solving.\"
-`; navigator.clipboard.writeText(raw); this.textContent = 'Copied!'; this.classList.add('copied'); setTimeout(() => { this.textContent = 'Copy to clipboard'; this.classList.remove('copied'); }, 2000); ">Copy to clipboard
 
 ## 📊 GitHub Stats
 
