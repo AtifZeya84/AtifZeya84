@@ -73,3 +73,14 @@
 <p align="center"><i>"Code is not just syntax — it's problem solving."</i></p>
 \"Code is not just syntax — it's problem solving.\"
 `; navigator.clipboard.writeText(raw); this.textContent = 'Copied!'; this.classList.add('copied'); setTimeout(() => { this.textContent = 'Copy to clipboard'; this.classList.remove('copied'); }, 2000); ">Copy to clipboard
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtifZeya84&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtifZeya84&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtifZeya84&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
