@@ -15,9 +15,9 @@
 
 ## 🙋‍♂️ About me
 
-- 🎓 Final year student, passionate about backend development
+- 🎓 passionate about backend development
 - 💼 Built a full-stack **Loan Origination System** with Maker-Checker workflow
-- 🔐 Strong in **JWT Auth**, **REST APIs**, and **Spring Security**
+- 🔐 Strong in  **REST APIs**, and **Spring Security**
 - 🌱 Currently deepening skills in **DSA** and **System Design**
 - 🚀 Open to **fresher / junior backend developer** roles
 
