@@ -22,8 +22,7 @@ Hey, I'm **Atif** — a backend developer from Bengaluru, currently studying at 
 
 - 🏗️ Built a full-stack **Loan Origination System** with 3-role JWT auth workflow
 - 💸 Built a full-stack **Expense Tracker** with category analytics and a dashboard
-- 🔐 Comfortable with **Spring Security**, JWT, and role-based access control
-- 📚 Currently grinding **DSA** and diving deeper into **System Design**
+- 🔐 Comfortable with **Spring Security**, JWT
 - 🚀 Actively looking for **fresher / junior backend developer** roles
 
 ---
@@ -43,7 +42,6 @@ Hey, I'm **Atif** — a backend developer from Bengaluru, currently studying at 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
