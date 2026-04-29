@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ About Me
 - 🎓 Passionate about backend development
-- 💼 Built a full-stack **Loan Origination System** with Maker-Checker workflow
+- 💼 Built full-stack projects: **Loan Origination System** & **Expense Tracker**
 - 🔐 Strong in **REST APIs** and **Spring Security**
 - 🌱 Currently deepening skills in **DSA** and **System Design**
 - 🚀 Open to **fresher / junior backend developer** roles
@@ -48,6 +48,8 @@
 
 ## 🚀 Featured Projects
 
+---
+
 ### 🏦 Loan Origination System — Full Stack
 > Enterprise-grade loan management platform with dual-approval workflow
 
@@ -80,20 +82,41 @@ CHECKER REVIEWS
     └── Reject  → REJECTED
 ```
 
-**Architecture**
-```
-Frontend (React)
-    ↓ Axios HTTP
-REST Controllers
-    ↓
-Services (Business Logic)
-    ↓
-Repositories (JPA)
-    ↓
-PostgreSQL
-```
-
 [![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtifZeya84/loan-approval-system)
+
+---
+
+### 💸 Expense Tracker — Full Stack
+> A clean, responsive expense management app with category filtering and dashboard stats
+
+- 📊 **Dashboard Stats**: Total spent, expense count, top category
+- 🗂 **Category Filtering**: Food, Transport, Shopping, Health, Entertainment & more
+- ✏️ Add, Edit & Delete expenses with real-time updates
+- 🌑 Clean dark UI with animations, fully responsive
+- 🔌 RESTful API with 7 endpoints (CRUD + filter by category + total)
+
+**Tech Stack**
+
+| Layer | Technology |
+|-------|-----------|
+| Frontend | HTML5, CSS3, Vanilla JavaScript |
+| Backend | Java 17, Spring Boot 3.2 |
+| Database | PostgreSQL, Spring Data JPA |
+| API Style | REST |
+
+**API Endpoints**
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | `/api/expenses` | Get all expenses |
+| GET | `/api/expenses/{id}` | Get expense by ID |
+| GET | `/api/expenses/category/{category}` | Filter by category |
+| GET | `/api/expenses/total` | Get total amount |
+| POST | `/api/expenses` | Create new expense |
+| PUT | `/api/expenses/{id}` | Update expense |
+| DELETE | `/api/expenses/{id}` | Delete expense |
+
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtifZeya84/expense-tracker)
 
 ---
 
